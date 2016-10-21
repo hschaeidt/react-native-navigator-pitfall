@@ -95,4 +95,8 @@ const styles = StyleSheet.create({
   navigationBar: {
     backgroundColor: 'silver',
   },
+  scene: {
+    marginTop: 64,
+    backgroundColor: 'red',
+  },
 })
