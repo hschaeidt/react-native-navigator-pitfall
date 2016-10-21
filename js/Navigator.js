@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'silver',
   },
   scene: {
-    marginTop: 64,
+    marginTop: Navigator.NavigationBar.Styles.General.TotalNavHeight,
     backgroundColor: 'red',
   },
 })
