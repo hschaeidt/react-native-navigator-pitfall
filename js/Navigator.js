@@ -90,6 +90,9 @@ export default class NavigatorSampleNavigation extends Component {
 
 const styles = StyleSheet.create({
   navigator: {
+    flex: 1,
+  },
+  navigationBar: {
     backgroundColor: 'silver',
   },
 })
